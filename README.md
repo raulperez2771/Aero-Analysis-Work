@@ -9,4 +9,4 @@ AIAA Competition Project: Hermes Aeronautics Envoy 600 Final Design Report
 * Contribution: Section 5 pg. 32 to 40. 
 
 Simulation_of_a_Fuselage_Floor_under_Loading_Report
-* If curoius
+* FEAMAP Project
